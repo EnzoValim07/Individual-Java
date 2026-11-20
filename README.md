@@ -62,4 +62,4 @@ mvn compile exec:java -Dexec.mainClass=gta6.Main
 (ou abra no IntelliJ/Eclipse e rode a classe `Main`)
 
 ## Autor
-Seu Nome - SPTech
+Enzo Valim - SPTech
